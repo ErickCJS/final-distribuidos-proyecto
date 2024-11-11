@@ -147,6 +147,7 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ticket.aspx" />
+    <Content Include="tipodulce.aspx" />
     <Content Include="ubigeo.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -287,6 +288,13 @@
     </Compile>
     <Compile Include="ticket.aspx.vb">
       <DependentUpon>ticket.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="tipodulce.aspx.designer.vb">
+      <DependentUpon>tipodulce.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tipodulce.aspx.vb">
+      <DependentUpon>tipodulce.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="ubigeo.aspx.designer.vb">
