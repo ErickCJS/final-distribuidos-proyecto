@@ -197,3 +197,5 @@ C:\Users\ERICK\Documents\GitHub\final-distribuidos-proyecto\final-distribuidos-p
 C:\Users\ERICK\Documents\GitHub\final-distribuidos-proyecto\final-distribuidos-proyecto\obj\Debug\final-distribuidos-proyecto.dll
 C:\Users\ERICK\Documents\GitHub\final-distribuidos-proyecto\final-distribuidos-proyecto\obj\Debug\final-distribuidos-proyecto.xml
 C:\Users\ERICK\Documents\GitHub\final-distribuidos-proyecto\final-distribuidos-proyecto\obj\Debug\final-distribuidos-proyecto.pdb
+C:\Users\ERICK\Documents\GitHub\final-distribuidos-proyecto\final-distribuidos-proyecto\bin\Newtonsoft.Json.dll
+C:\Users\ERICK\Documents\GitHub\final-distribuidos-proyecto\final-distribuidos-proyecto\bin\Newtonsoft.Json.xml
