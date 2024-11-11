@@ -442,6 +442,96 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:final_distribuidos_proyecto.dulceria._txtiddulce">
+<summary>
+Control txtiddulce.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:final_distribuidos_proyecto.dulceria._nombreimg">
+<summary>
+Control nombreimg.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:final_distribuidos_proyecto.dulceria._nombredulce">
+<summary>
+Control nombredulce.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:final_distribuidos_proyecto.dulceria._precio">
+<summary>
+Control precio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:final_distribuidos_proyecto.dulceria._tipodulce">
+<summary>
+Control tipodulce.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:final_distribuidos_proyecto.dulceria._presentacion">
+<summary>
+Control presentacion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:final_distribuidos_proyecto.dulceria._estado">
+<summary>
+Control estado.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:final_distribuidos_proyecto.dulceria._fileInput">
+<summary>
+Control fileInput.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:final_distribuidos_proyecto.dulceria._btnGuardar">
+<summary>
+Control btnGuardar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:final_distribuidos_proyecto.dulceria._phDulces">
+<summary>
+Control phDulces.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:final_distribuidos_proyecto.formato._btnAgregar">
 <summary>
 Control btnAgregar.
