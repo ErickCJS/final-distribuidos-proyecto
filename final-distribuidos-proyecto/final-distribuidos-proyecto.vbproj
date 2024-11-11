@@ -110,7 +110,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="cines.aspx" />
-    <Content Include="combo.aspx" />
     <Content Include="comprobante.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
@@ -129,7 +128,6 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="director.aspx" />
-    <Content Include="dulce.aspx" />
     <Content Include="entradas.aspx" />
     <Content Include="formaPago.aspx" />
     <Content Include="formatoPedro.aspx" />
@@ -138,6 +136,7 @@
     <Content Include="idioma.aspx" />
     <Content Include="login.aspx" />
     <Content Include="pelicula.aspx" />
+    <Content Include="presentaciondulce.aspx" />
     <Content Include="principal.aspx" />
     <Content Include="registro.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -158,13 +157,6 @@
       <DependentUpon>cines.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="combo.aspx.designer.vb">
-      <DependentUpon>combo.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="combo.aspx.vb">
-      <DependentUpon>combo.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
     <Compile Include="comprobante.aspx.designer.vb">
       <DependentUpon>comprobante.aspx</DependentUpon>
     </Compile>
@@ -177,13 +169,6 @@
     </Compile>
     <Compile Include="director.aspx.vb">
       <DependentUpon>director.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
-    <Compile Include="dulce.aspx.designer.vb">
-      <DependentUpon>dulce.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="dulce.aspx.vb">
-      <DependentUpon>dulce.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="entradas.aspx.designer.vb">
@@ -267,6 +252,13 @@
     <Compile Include="pelicula.aspx.vb">
       <DependentUpon>pelicula.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="presentaciondulce.aspx.designer.vb">
+      <DependentUpon>presentaciondulce.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="presentaciondulce.aspx.vb">
+      <DependentUpon>presentaciondulce.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="principal.aspx.designer.vb">
       <DependentUpon>principal.aspx</DependentUpon>
